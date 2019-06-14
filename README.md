@@ -2,7 +2,7 @@
 Unicode input method for typing in Uncial Greek on Mac
 
 # Key Mapping
-The key mapping for the input method matches the standard Greek keyboard layout but uses characters from the Coptic Unicode block.
+The key mapping for the input method matches the standard Greek keyboard layout but uses uncial script characters from the Coptic Unicode block.
 
 ![Key Mapping](uncial-greek-key-mapping.png)
 
